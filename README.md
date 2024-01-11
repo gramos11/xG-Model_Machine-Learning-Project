@@ -10,3 +10,5 @@ Following the data cleaning and preprocessing conducted in Data_Preprocessing.R,
 An XG Boost model was built in XGBoost_Xg_model.R file.
 
 An extensive written report from the group is included in the pdf file Written_Report.pdf
+
+![mosalah_viz](https://github.com/gramos11/xG-Model_Machine-Learning-Project/assets/71738445/dffb5263-930d-4ea0-81d5-61b8d007100f)
